@@ -1,8 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Consumindo API + utilização do map
 
-Currently, two official plugins are available:
+## Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+projeto desenvolvimento para praticar consumo de API mais utulização do .map()
+
+Para executar o projeto em ambiente de desenvolvimento
+
+```bash
+npm run dev
+```
+
+
+## Stack utilizada
+
+**Front-end:** React
+
+## Colaborador
+
+- [Leonardo Vasconcelos](https://github.com/leonardofv)
+
